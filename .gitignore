@@ -57,3 +57,6 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+.idea/
+*.iml
+target/
